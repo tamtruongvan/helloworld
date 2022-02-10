@@ -1,4 +1,5 @@
 main
+b add line 2
 b change
 b1 change
 a change
