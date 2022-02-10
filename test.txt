@@ -1,6 +1,6 @@
 main
 a change
-a change 02<<<<<<< HEAD
+<<<<<<< HEAD
 a change 02
 =======
 a change 02
