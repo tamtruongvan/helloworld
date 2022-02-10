@@ -1,4 +1,8 @@
 main
 a change
+<<<<<<< HEAD
+a change 02
+=======
 a change 02
 b change
+>>>>>>> main
