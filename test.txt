@@ -6,3 +6,4 @@ a change
 a change 02
 b change
 a change 03 line 7
+feature c
