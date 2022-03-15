@@ -12,3 +12,4 @@ feature a
 f a2
 f c3
 f c4
+f a3
