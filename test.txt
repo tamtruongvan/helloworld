@@ -10,3 +10,4 @@ feature c
 f c2
 feature a
 f a2
+f a3
